@@ -1,0 +1,13 @@
+# OS / Environment artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+
+# AWS credentials / Keys
+*.pem
+*.ppk
+*.key
+credentials
+config
